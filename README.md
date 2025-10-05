@@ -1,7 +1,27 @@
-👋 Hi, I'm Mohamed Amine!
-I'm a Data Science student passionate about data analysis and finance. I love exploring data, finding insights, and applying analytical methods to solve real-world problems.
+# Anbari Mohamed Amine 👋
 
-🔹 New to GitHub and excited to learn, collaborate, and grow in the developer community.
-🔹 Interested in data visualization, machine learning, and financial modeling.
+### Master's Student in Finance & Data Science | Aspiring Quantitative Analyst
 
-📫 Feel free to connect with me as I embark on this journey!
+<br>
+
+Welcome! I'm a Master's student passionate about the intersection of financial markets and data science. My goal is to apply rigorous econometric and statistical models to solve complex financial challenges, from risk management to volatility forecasting.
+
+### 📈 Featured Projects
+
+Here is a selection of projects that showcase my skills in financial modeling and data analysis.
+
+**1. 📊 Bitcoin Volatility Modeling with GARCH Models**
+   - **Description:** A comparative analysis of various GARCH models (GARCH, GJR-GARCH) to capture and forecast the volatility of Bitcoin (BTC/USD). This project explores asymmetry and leverage effects in cryptocurrency markets.
+   - **Tech Used:** `Python`, `Pandas`, `Statsmodels`, `yfinance`, `Time Series Analysis`, `Econometrics`.
+   - **[Explore the Project ->](https://github.com/Anbari07/projet-volatilite-bitcoin)**
+
+
+---
+
+### 📫 Get in Touch
+
+I'm always open to discussing quantitative finance projects, new technologies, or professional opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
